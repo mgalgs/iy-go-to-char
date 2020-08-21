@@ -1,10 +1,12 @@
 [![Stories in Ready](https://badge.waffle.io/doitian/iy-go-to-char.png?label=ready&title=Ready)](https://waffle.io/doitian/iy-go-to-char)
+<a href="https://github.com/doitian/iy-go-to-char"><img src="https://www.gnu.org/software/emacs/images/emacs.png" alt="Emacs Logo" width="80" height="80" align="right"></a>
 ## iy-go-to-char.el
 *Go to next CHAR which is similar to "f" and "t" in vim*
 
 ---
 [![License GPLv2](https://img.shields.io/badge/license-GPL_v2-green.svg)](http://www.gnu.org/licenses/gpl-2.0.html)
 [![MELPA](http://melpa.org/packages/iy-go-to-char-badge.svg)](http://melpa.org/#/iy-go-to-char)
+[![MELPA Stable](http://stable.melpa.org/packages/iy-go-to-char-badge.svg)](http://stable.melpa.org/#/iy-go-to-char)
 
 This package defines the function `iy-go-to-char` which behaves like "f" in
 vim, and `iy-go-up-to-char` like "t" in vim.  It reads a char and go the
